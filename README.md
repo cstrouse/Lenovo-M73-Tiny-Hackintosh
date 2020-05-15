@@ -1,4 +1,4 @@
-# Lenovo-M73-Tiny-Hackintosh
+# Lenovo M73 Tiny Hackintosh
 
 Clover and OpenCore EFI folders for M73 i3 version (10AY001RUS). Everything works except the Intel wifi.
 
