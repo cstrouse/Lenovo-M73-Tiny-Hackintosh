@@ -13,7 +13,7 @@ Clover and OpenCore EFI folders for M73 i3 version (10AY001RUS). Everything work
 | CPU | Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz
 | Memory | 2x4GB Samsung DDR3 1600MHz (PN: M471B5173DB0-YK0)
 | GPU | Intel HD Graphics 4400
-| Storage | Patriot Memory Burst SSD 120GB (PN: PBU120GS25SSDR, Revision: SBFM61.3)
+| Storage | PNY CS900 SSD 240GB
 | Audio | Realtek ALC283
 | Wifi | Asus AC53 Nano USB (using chris-1111 big-sur-oc-wifi-adapter driver v6)
 | Ethernet | Intel I217V
@@ -22,3 +22,4 @@ Clover and OpenCore EFI folders for M73 i3 version (10AY001RUS). Everything work
 | Mouse | Dell MS116
 | Clover | 5098
 | OpenCore | 0.6.3
+| SMBIOS | ~~iMac14,4~~ iMac14,4
