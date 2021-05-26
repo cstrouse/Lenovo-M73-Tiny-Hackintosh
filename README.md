@@ -22,4 +22,4 @@ Clover and OpenCore EFI folders for M73 i3 version (10AY001RUS). Everything work
 | Mouse | Dell MS116
 | Clover | 5098
 | OpenCore | 0.6.3
-| SMBIOS | ~~iMac14,4~~ iMac14,4
+| SMBIOS | iMac14,4
